@@ -1,6 +1,11 @@
 # Oi :)
 Gosto de aprender coisas relacionadas a matemática
 
+## 📈 Estatísticas de GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true)
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOPHI-A9/SOPHI-A9/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOPHI-A9/SOPHI-A9/output/github-contribution-grid-snake-dark.svg">
