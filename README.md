@@ -5,7 +5,10 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://media1.tenor.com/m/_2SIBTXgiFwAAAAC/teh-cat-comin.gif" alt="Texto Animado" width="185" style="float: right; margin-left: 20px;" />
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
-                                                                                                                              
+## Conecte-se comigo
+
+[![LinkedIn](https://github.com/seu-usuario/seu-repositorio/raw/main/images/icons/linkedin.png)](https://www.linkedin.com/in/seu-perfil)
+[![Twitter](https://github.com/seu-usuario/seu-repositorio/raw/main/images/icons/twitter.png)](https://twitter.com/seu-usuario)
 
 
 <picture align="center">
