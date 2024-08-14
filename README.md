@@ -1,7 +1,9 @@
 # Oi :)
 Gosto de aprender coisas relacionadas a matemática
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SOPHI-A9&show_icons=true&hide_title=true&theme=dark&border_color=563285&icon_color=563285)                                                                                                                                                                        ![Texto Animado](https://media1.tenor.com/m/_2SIBTXgiFwAAAAC/teh-cat-comin.gif)                                                                                 
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SOPHI-A9&show_icons=true&hide_title=true&theme=dark&border_color=563285&icon_color=563285)                                                                                                                                                                        ![Texto Animado](https://media1.tenor.com/m/_2SIBTXgiFwAAAAC/teh-cat-comin.gif)                                                                                 <div style="display: flex; justify-content: flex-end; align-items: center;">
+  <img src="https://media1.tenor.com/m/_2SIBTXgiFwAAAAC/teh-cat-comin.gif" alt="Texto Animado" width="150" />
+</div>
 
 
 
