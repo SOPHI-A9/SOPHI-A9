@@ -1,4 +1,4 @@
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ1czN5Y3BhZ3BuMnIyZWt0eDhuMWV0djc3Ym5tNTR0enUxMmc3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6QGZTYAIRYGe8y6tDc/giphy.gif" alt="Texto Animado" width="500" style="margin-left: 20px;" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF5OWFuYTRjN2c2a3Z1MGcwdWlqeWEwMXRhYWJnY3ZxcG1jMmIwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NbIkzGim7Qv52Lwfb0/giphy.gif" alt="Texto Animado" width="300" style="margin-left: 20px;" />
 
 Gosto de aprender coisas relacionadas a matemática
 
