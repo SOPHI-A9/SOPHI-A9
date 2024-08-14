@@ -1,8 +1,9 @@
 # Oi :)
 Gosto de aprender coisas relacionadas a matemática
 
-<!--
-**SOPHI-A9/SOPHI-A9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Snake animation](https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
+
+[![Snake animation}.(https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=your_username&theme=react)](https://github.com/your_username/your_username)
 
 Here are some ideas to get you started:
 
