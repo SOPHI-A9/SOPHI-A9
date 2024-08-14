@@ -1,4 +1,4 @@
-# Oi :)
+![Texto Animado](https://imgur.com/a/MqF43km)
 Gosto de aprender coisas relacionadas a matemática
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=SOPHI-A9&show_icons=true&hide_title=true&theme=dark&border_color=563285&icon_color=563285)
