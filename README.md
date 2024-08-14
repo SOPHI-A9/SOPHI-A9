@@ -3,7 +3,7 @@ Gosto de aprender coisas relacionadas a matemática
 
 ## 📈 Estatísticas de GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SOPHI-A9&show_icons=true&hide_title=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SOPHI-A9&show_icons=true&hide_title=true&theme_dark)
 
 
 <picture align="center">
