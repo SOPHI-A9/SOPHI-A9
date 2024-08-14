@@ -11,6 +11,8 @@
 [![Twitter](https://github.com/seu-usuario/seu-repositorio/raw/main/images/icons/twitter.png)](https://twitter.com/seu-usuario)
 
 
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOPHI-A9/SOPHI-A9/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOPHI-A9/SOPHI-A9/output/github-contribution-grid-snake-dark.svg">
