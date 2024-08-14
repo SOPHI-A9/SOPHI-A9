@@ -1,9 +1,9 @@
 # Oi :)
 Gosto de aprender coisas relacionadas a matemática
 
-![Snake animation](https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SOPHI_A9/SOPHI-A9/blob/output/github-contribution-grid-snake.svg)
 
-[![Snake animation}.(https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=your_username&theme=react)](https://github.com/your_username/your_username)
+[![Snake animation}.(https://github-readme-stats.vercel.app/api/pin/?username=SOPHI-A9&repo=your_SOPHI-A9&theme=react)](https://github.com/SOPHI-A9/SOPHI-A9)
 
 Here are some ideas to get you started:
 
