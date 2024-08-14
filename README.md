@@ -1,19 +1,7 @@
 # Oi :)
 Gosto de aprender coisas relacionadas a matemática
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SOPHI-A9&show_icons=true&hide_title=true&theme=dark&border_color=563285&icon_color=563285)   <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Teste de GIF</title>
-</head>
-<body>
-    <h1>Teste de GIF</h1>
-    <img src="https://media.discordapp.net/attachments/807809192537882647/1171157564185137252/1108862500675530782.gif" alt="Texto Animado">
-</body>
-</html>  
-
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SOPHI-A9&show_icons=true&hide_title=true&theme=dark&border_color=563285&icon_color=563285)     <div class="tenor-gif-embed" data-postid="18402983533302810716" data-share-method="host" data-aspect-ratio="1.12245" data-width="100%"><a href="https://tenor.com/view/teh-cat-comin-gif-18402983533302810716">Teh Cat Comin GIF</a>from <a href="https://tenor.com/search/teh+cat+comin-gifs">Teh Cat Comin GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
